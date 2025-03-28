@@ -88,7 +88,7 @@ export default function Home() {
             <div className="flex items-center justify-center space-x-2">
               <MapPin className="w-5 h-5 text-gray-700" />
               <p className="text-lg md:text-2xl font-bold text-gray-800">
-                PODIUM LEVEL, THE WALK,
+                VENUE: PODIUM LEVEL, THE WALK,
                 <br className="md:hidden" /> HIRANANDANI ESTATE, THANE (W)
               </p>
             </div>
